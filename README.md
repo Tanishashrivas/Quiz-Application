@@ -21,7 +21,7 @@ This project is divided into several modules for efficiently managing the applic
 <br>
 
 ### Getting Started
-**1. Clone the Repository:**
+**1. Clone the Repository:**<br>
 git clone https://github.com/your-username/java-quiz-application.git <br>
 cd java-quiz-application<br>
 
